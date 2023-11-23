@@ -6,6 +6,7 @@
   <h1>Ping-Node</h1>
 
   <p>Este é um simples verificador de status de endpoint em Node.js, utilizando as bibliotecas Axios, Readline e Node-notifier. O script permite que você insira um endpoint a ser verificado e o tempo de intervalo em segundos para monitorar automaticamente o status desse endpoint.</p>
+  <img src="https://github.com/imnotvirus/ping-node/assets/11259073/84c17ca6-b9db-44f3-bbf9-84abc8e0c6e7" />
 
   <h2>Como Usar</h2>
 
