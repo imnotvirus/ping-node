@@ -1,6 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<body>
 
-  <h1>Status Checker</h1>
+  <h1>Ping-Node</h1>
 
   <p>Este é um simples verificador de status de endpoint em Node.js, utilizando as bibliotecas Axios, Readline e Node-notifier. O script permite que você insira um endpoint a ser verificado e o tempo de intervalo em segundos para monitorar automaticamente o status desse endpoint.</p>
 
@@ -12,10 +15,10 @@
   </ul>
 
   <h3>Instalação de Dependências</h3>
-  <pre><code>npm install axios readline node-notifier</code></pre>
-
+  <pre><code>yarn </code></pre>
+ 
   <h3>Execução do Script</h3>
-  <pre><code>node index.js</code></pre>
+  <pre><code>yarn start</code></pre>
 
   <h3>Entrada de Dados</h3>
   <p>O script solicitará que você informe o endpoint a ser verificado e o tempo de intervalo em segundos.</p>
@@ -37,3 +40,6 @@
 
   <p><em>Este README foi criado automaticamente com amor pelo GPT-3.5 da OpenAI.</em></p>
 
+</body>
+
+</html>
