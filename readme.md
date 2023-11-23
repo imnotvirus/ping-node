@@ -1,40 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Status Checker</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-    }
-
-    h1,
-    h2,
-    h3 {
-      color: #333;
-    }
-
-    code {
-      background-color: #f4f4f4;
-      padding: 2px 4px;
-      border-radius: 4px;
-      font-size: 0.9em;
-    }
-
-    pre {
-      background-color: #f4f4f4;
-      padding: 10px;
-      overflow: auto;
-    }
-
-  </style>
-</head>
-
-<body>
 
   <h1>Status Checker</h1>
 
@@ -73,6 +37,3 @@
 
   <p><em>Este README foi criado automaticamente com amor pelo GPT-3.5 da OpenAI.</em></p>
 
-</body>
-
-</html>
